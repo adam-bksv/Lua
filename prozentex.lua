@@ -44,10 +44,10 @@ template_output.Visible = false
 
 local cmd_prompt = Instance.new("TextBox")
 cmd_prompt.Name = "cmd_prompt"
-cmd_prompt.Size = UDim2.new(0, 542, 0, 34)
+cmd_prompt.Size = UDim2.new(0, 543, 0, 16)
 cmd_prompt.BorderColor3 = Color3.fromRGB(0, 0, 0)
 cmd_prompt.BackgroundTransparency = 0
-cmd_prompt.Position = UDim2.new(0.0324, 0, 0.885, 0)
+cmd_prompt.Position = UDim2.new(0.032, 0, 0.885, 0)
 cmd_prompt.BorderSizePixel = 0
 cmd_prompt.BackgroundColor3 = Color3.fromRGB(0,0,0)
 cmd_prompt.FontSize = Enum.FontSize.Size18
